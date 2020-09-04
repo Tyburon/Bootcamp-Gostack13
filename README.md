@@ -36,12 +36,12 @@ O GoStack propõe que ao final do curso os devs adeptos estejam aptos a desenvol
 A metodologia do curso é fundamentada na pratica, porém contempla toda a parte teórica necessária a compreensão das tecnologias utilizadas e proporciona a independência do desenvolvedor ao criar suas próprias aplicações. Relacionado a fundamentação prática do curso, ao final de cada módulo, é proposto um desafio que tem como objetivo validar o aprendizado no conteúdo estudado. O desafio deve ser executado e enviado para correção, que é feita automaticamente em poucos minutos, apresentando seu desempenho na tarefa de modo quantitativo em uma avaliação de 0.0 a 10.0.
 
 
-## Bônus (Não do meu README e sim do GoStack :stuck_out_tongue_winking_eye:)
+## Bônus
 
-O GoStack ainda possui um sistema de gamificação, que ao concluir as aulas e os desafios, recompensa os usuários com conquistas e bônus exclusivos, que vão de recompensas físicas a codigos fonte de aplicaçoes desenvolvidas por profissionais altamente qualificados.
+O GoStack ainda possui um sistema de gamificação, que ao concluir as aulas e os desafios, recompensa os usuários com conquistas e bônus exclusivos, que vão de recompensas físicas a codigos fonte de aplicaçoes.
 
 
 
 # Expectativas
 
-Espero ao final do bootcamp ter uma interpretação mais profunda e uma visão mais ampla sobre o desinvolvimento de software, além do conhecimento e capacidade de desenvolver programas que estejam dentre as tecnologias e linguagens do meu conhecimento.
+Espero ao final do bootcamp ter uma interpretação mais profunda e uma visão mais ampla sobre o desinvolvimento de software, além do conhecimento e capacidade de desenvolver programas que estejam dentre as tecnologias e linguagens abordadas no bootcamp.
